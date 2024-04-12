@@ -1,0 +1,1 @@
+sumOfRandom = sum(rnorm(100))
